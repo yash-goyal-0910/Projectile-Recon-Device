@@ -5,7 +5,7 @@
 ![Status](https://img.shields.io/badge/status-Prototype%20Phase-blue)
 ![Hardware](https://img.shields.io/badge/hardware-IoT-green)
 ![Language](https://img.shields.io/badge/firmware-Embedded%20C-orange)
-![Frontend](https://img.shields.io/badge/dashboard-Flask%20-61DBFB)
+![Frontend](https://img.shields.io/badge/dashboard-Python%20-61DBFB)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
 ---
