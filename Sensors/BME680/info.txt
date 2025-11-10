@@ -1,1 +1,3 @@
 we gonna use i2c communication in this , this is half duplex slow connection but require less pins than spi connection which uses 4 pins
+
+this site explains how to use it and is wonderful https://randomnerdtutorials.com/bme680-sensor-arduino-gas-temperature-humidity-pressure/
