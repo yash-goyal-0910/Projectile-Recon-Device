@@ -1,0 +1,1 @@
+we gonna use i2c communication in this , this is half duplex slow connection but require less pins than spi connection which uses 4 pins
