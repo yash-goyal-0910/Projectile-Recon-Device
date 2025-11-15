@@ -133,8 +133,7 @@ The Ground Control Station (web app) is built using **React.js** and simulates a
 ---
 
 ## 📂 Repository Structure
-
-```
+ 
 ```
 Projectile-Recon-Device/
 ├── Sample Code/          # Sample Arduino code and implementations
