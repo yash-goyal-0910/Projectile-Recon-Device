@@ -135,26 +135,21 @@ The Ground Control Station (web app) is built using **React.js** and simulates a
 ## 📂 Repository Structure
 
 ```
-PRD/
-│
-├── firmware/                # Arduino firmware for ATMEGA328P
-│   ├── prd_main.ino
-│   ├── sensors/
-│   └── comm/
-│
-├── dashboard/               # React-based ground control UI
-│   ├── src/
-│   ├── public/
-│   └── package.json
-│
-├── docs/                    # Technical and research documentation
-│   ├── circuit_diagram.png
-│   ├── 3d_model.blend
-│   └── report.pdf
-│
-├── LICENSE
-└── README.md
 ```
+Projectile-Recon-Device/
+│
+├── Sample Code/              # Sample Arduino code and implementations
+│
+├── Sensors/                  # Sensor-specific documentation and code
+│   └── BME680/              # BME680 environmental sensor
+│
+├── 3D Model.f3d             # Fusion 360 3D model of the device
+├── Circuit Diagram.png       # Circuit schematic diagram
+├── Render.mp4               # 3D render video of the device
+├── Simulation.blend         # Blender simulation file
+├── LICENSE                   # MIT License file
+└── README.md                 # Project documentation
+``````
 
 ---
 
