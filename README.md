@@ -41,7 +41,7 @@ Its core innovation lies in **computational correction**, which digitally levels
    ├── BNO055 IMU     → Absolute orientation (pitch, roll, yaw)
    ├── BME680 Sensor  → Temp, humidity, pressure, gas resistance
    ├── AMG8833 IR Grid→ 8x8 thermal heatmap
-    |—— Adafruit Ultimate GPS → GPS positioning (66 channels, 10 Hz updates)
+   |—— Adafruit Ultimate GPS → GPS positioning (66 channels, 10 Hz updates)
    ├── nRF24L01       → Wireless transmission
    └── ATMEGA328P MCU → Core controller (low-power, Arduino-compatible)
 
