@@ -137,18 +137,15 @@ The Ground Control Station (web app) is built using **React.js** and simulates a
 ```
 ```
 Projectile-Recon-Device/
-│
-├── Sample Code/              # Sample Arduino code and implementations
-│
-├── Sensors/                  # Sensor-specific documentation and code
-│   └── BME680/              # BME680 environmental sensor
-│
-├── 3D Model.f3d             # Fusion 360 3D model of the device
-├── Circuit Diagram.png       # Circuit schematic diagram
-├── Render.mp4               # 3D render video of the device
-├── Simulation.blend         # Blender simulation file
-├── LICENSE                   # MIT License file
-└── README.md                 # Project documentation
+├── Sample Code/          # Sample Arduino code and implementations
+├── Sensors/
+│   └── BME680/           # BME680 environmental sensor and code
+├── 3D Model.f3d          # Fusion 360 3D model of the device
+├── Circuit Diagram.png   # Circuit schematic diagram
+├── Render.mp4            # 3D render video of the device
+├── Simulation.blend      # Blender simulation file
+├── LICENSE               # MIT License file
+└── README.md             # Project documentation
 ``````
 
 ---
