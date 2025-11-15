@@ -41,6 +41,7 @@ Its core innovation lies in **computational correction**, which digitally levels
    ├── BNO055 IMU     → Absolute orientation (pitch, roll, yaw)
    ├── BME680 Sensor  → Temp, humidity, pressure, gas resistance
    ├── AMG8833 IR Grid→ 8x8 thermal heatmap
+    |—— Adafruit Ultimate GPS → GPS positioning (66 channels, 10 Hz updates)
    ├── nRF24L01       → Wireless transmission
    └── ATMEGA328P MCU → Core controller (low-power, Arduino-compatible)
 
@@ -79,6 +80,7 @@ The **rotation matrix** derived from IMU orientation is applied to transform eac
 | Orientation | BNO055 IMU | Provides absolute orientation with sensor fusion |
 | Environmental | BME680 | Temp, humidity, pressure, and air quality |
 | Thermal Vision | AMG8833 | 8×8 pixel IR thermal grid |
+| Navigation | Adafruit Ultimate GPS Breakout v3 | GPS positioning with 66 channels, 10 Hz updates |
 | Communication | nRF24L01 | Wireless transmission to base station |
 | Power | Li-ion 3.7V Battery + Step-Up Regulator | Portable power supply |
 
